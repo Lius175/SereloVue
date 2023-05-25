@@ -142,7 +142,7 @@ export default {
     left: 0;
     top: 0;
     bottom: 0;
-    width: 15%;
+    width: 13%;
     background-color: white;
     padding: 16px;
     overflow-y: auto;
